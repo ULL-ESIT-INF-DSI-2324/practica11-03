@@ -1,6 +1,6 @@
 import "mocha";
 import { expect } from "chai";
-import { add } from "../src/ejercicio";
+import { add } from "../src/ejercicio.js";
 
 
 describe("add function tests", () => {

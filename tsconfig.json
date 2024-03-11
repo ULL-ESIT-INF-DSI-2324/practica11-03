@@ -10,13 +10,14 @@
      
     "compilerOptions": {
       "target": "es2022",
-      "module": "commonjs",
+      "module": "Node16",
       "rootDir": "./src",
       "declaration": true,
       "noImplicitAny":true,
       "strictNullChecks":true,
       "noImplicitReturns":true,
-      "outDir": "./dist"
+      "outDir": "./dist",
+      "strict": true,
     }
   }
  
