@@ -3,3 +3,4 @@
 
 [![Tests](https://github.com/ULL-ESIT-INF-DSI-2324/practica11-03/actions/workflows/node.js.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2324/practica11-03/actions/workflows/node.js.yml)
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2324_practica11-03)
