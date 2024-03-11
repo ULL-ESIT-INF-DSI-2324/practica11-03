@@ -1,0 +1,1 @@
+{"processes":{"fead46d3-5b9d-44c2-962b-c7fd76f3580a":{"parent":"ff75def8-b967-4960-a4ec-215b7fd2eff4","children":[]},"ff75def8-b967-4960-a4ec-215b7fd2eff4":{"parent":null,"children":["fead46d3-5b9d-44c2-962b-c7fd76f3580a"]}},"files":{"/home/usuario/practica11-03/src/ejercicio.ts":["fead46d3-5b9d-44c2-962b-c7fd76f3580a"]},"externalIds":{}}
